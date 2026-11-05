@@ -15,7 +15,7 @@ from telethon.tl.functions.messages import GetHistoryRequest
 from faker import Faker
 
 # ==================== CONFIG ====================
-TOKEN = "8862389919:AAG-zWbqshCDAIbmWnvriAVJGpYp50Dyuq8"
+TOKEN = "8694892966:AAFdzP0IvszunQQAq_qmTSc2PvaO5RtTQ7o"
 ADMIN_ID = 8715003522
 BOT_USERNAME = 'DazaiappBot'
 MESSAGE_PREFIX = '/au'
